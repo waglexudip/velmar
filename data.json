@@ -1,5 +1,5 @@
 [
-  {name:"ragnar"},
-  {name:"rollo"},
+  {name:"ragnar",age:42,},
+  {name:"rollo",age:45,},
   
   ]
