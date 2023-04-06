@@ -1,14 +1,15 @@
 [
   {
- "id":1 , 
-"name":"Ironman",  "imgss":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg6t8QwW_gkvQHA_-dvQUHYLZRiEVludKN6A&usqp=CAU",
-    "downurl":["url1"]
-  
+  "id":1 , 
+  "name":"Ironman",
+  "imgss":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg6t8QwW_gkvQHA_-dvQUHYLZRiEVludKN6A&usqp=CAU",
+  "downurl":["url1"]
   },
   {
-"id": 2,
-"name":"captain america", "imgss":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsK4JCQk2HOEr4NRWI9uvA23jAZNMwmwjk5A&usqp=CAU",
-   "downurl":["url2"]
+  "id": 2,
+  "name":"captain america",
+  "imgss":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsK4JCQk2HOEr4NRWI9uvA23jAZNMwmwjk5A&usqp=CAU",
+  "downurl":["url2"]
   }
   
   ]
