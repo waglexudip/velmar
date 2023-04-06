@@ -1,11 +1,14 @@
 [
   {
-    "name":"Ironman",
+ "id":1 , 
+"name":"Ironman",
     "imgss":"require('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg6t8QwW_gkvQHA_-dvQUHYLZRiEVludKN6A&usqp=CAU')",
     "downurl":["url1"]
   
   },
-  {"name":"captain america",
+  {
+"id": 2,
+"name":"captain america",
    "imgss":"require('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsK4JCQk2HOEr4NRWI9uvA23jAZNMwmwjk5A&usqp=CAU')",
    "downurl":["url2"]
   }
