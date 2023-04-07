@@ -1,204 +1,226 @@
 [
   {
-  "id":1 , 
-  "name":"Captain America: The First Avenger",
-  "imgss":"https://github.com/waglexudip/velmar/blob/main/steve.png?raw=true",
-  "downurl":[""]
+    "id": 1,
+    "name": "Captain America: The First Avenger",
+    "imgss": "https://github.com/waglexudip/velmar/blob/main/steve.png?raw=true",
+    "downurl": [
+      ""
+    ]
   },
   {
-  "id": 2,
-  "name":"Captain Marvel",
-  "imgss":"https://github.com/waglexudip/velmar/blob/main/amr.png?raw=true",
-  "downurl":[""]
+    "id": 2,
+    "name": "Captain Marvel",
+    "imgss": "https://github.com/waglexudip/velmar/blob/main/amr.png?raw=true",
+    "downurl": [
+      ""
+    ]
   },
   {
-  "id": 3,
-  "name":"Iron Man",
-  "imgss":"https://github.com/waglexudip/velmar/blob/main/ironman1.png?raw=true",
-  "downurl":[""]
+    "id": 3,
+    "name": "Iron Man",
+    "imgss": "https://github.com/waglexudip/velmar/blob/main/ironman1.png?raw=true",
+    "downurl": [
+      ""
+    ]
   },
-  
   {
-  "id": 4, 
-  "name":"Iron Man 2",
-  "imgss":"https://github.com/waglexudip/velmar/blob/main/ironman2.png?raw=true",
-  "downurl":[""]
+    "id": 4,
+    "name": "Iron Man 2",
+    "imgss": "https://github.com/waglexudip/velmar/blob/main/ironman2.png?raw=true",
+    "downurl": [
+      ""
+    ]
   },
-  
-
-{
-  "id": 5, 
-  "name":"The Incredible Hulk",
-  "imgss":"",
-  "downurl":[""]
-  },
-
-{
-  "id": 6, 
-  "name":"Thor",
-  "imgss":"",
-  "downurl":[""]
-  },
-
-{
-  "id": 7, 
-  "name":"The Avengers",
-  "imgss":"https://github.com/waglexudip/velmar/blob/main/acen.png?raw=true",
-  "downurl":[""]
-  },
-
   {
-  "id": 8, 
-  "name":"Thor: The Dark World",
-  "imgss":"",
-  "downurl":[""]
+    "id": 5,
+    "name": "The Incredible Hulk",
+    "imgss": "",
+    "downurl": [
+      ""
+    ]
   },
-
-{
-  "id": 9, 
-  "name":"Iron Man 3",
-  "imgss":"https://github.com/waglexudip/velmar/blob/main/ironman3.png?raw=true",
-  "downurl":[""]
+  {
+    "id": 6,
+    "name": "Thor",
+    "imgss": "",
+    "downurl": [
+      ""
+    ]
   },
-
-{
-  "id": 10, 
-  "name":"Captain America The Winter Soldier",
-  "imgss":"https://github.com/waglexudip/velmar/blob/main/buck.png?raw=true",
-  "downurl":[""]
+  {
+    "id": 7,
+    "name": "The Avengers",
+    "imgss": "https://github.com/waglexudip/velmar/blob/main/acen.png?raw=true",
+    "downurl": [
+      ""
+    ]
   },
-
-
-
-{
-  "id": 11, 
-  "name":"Guardians of the Galaxy",
-  "imgss":"",
-  "downurl":[""]
+  {
+    "id": 8,
+    "name": "Thor: The Dark World",
+    "imgss": "",
+    "downurl": [
+      ""
+    ]
   },
-
-
-
-{
-  "id": 12, 
-  "name":"Guardians of the Galaxy 2",
-  "imgss":"",
-  "downurl":[""]
+  {
+    "id": 9,
+    "name": "Iron Man 3",
+    "imgss": "https://github.com/waglexudip/velmar/blob/main/ironman3.png?raw=true",
+    "downurl": [
+      ""
+    ]
   },
-
-
-
-{
-  "id": 13, 
-  "name":"Avengers: Age of Ultron",
-  "imgss":"",
-  "downurl":[""]
+  {
+    "id": 10,
+    "name": "Captain America The Winter Soldier",
+    "imgss": "https://github.com/waglexudip/velmar/blob/main/buck.png?raw=true",
+    "downurl": [
+      ""
+    ]
   },
-
-
-
-{
-  "id": 14, 
-  "name":"Ant-Man",
-  "imgss":"https://github.com/waglexudip/velmar/blob/main/ant.png?raw=true",
-  "downurl":[""]
+  {
+    "id": 11,
+    "name": "Guardians of the Galaxy",
+    "imgss": "",
+    "downurl": [
+      ""
+    ]
   },
-
-
-{
-  "id": 15, 
-  "name":"Captain America: Civil War",
-  "imgss":"",
-  "downurl":[""]
+  {
+    "id": 12,
+    "name": "Guardians of the Galaxy 2",
+    "imgss": "",
+    "downurl": [
+      ""
+    ]
   },
-{
-  "id": 16, 
-  "name":"Black Widow",
-  "imgss":"https://github.com/waglexudip/velmar/blob/main/blakc.png?raw=true",
-  "downurl":[""]
+  {
+    "id": 13,
+    "name": "Avengers: Age of Ultron",
+    "imgss": "",
+    "downurl": [
+      ""
+    ]
   },
-{
-  "id": 17, 
-  "name":"Spider-Man: Homecoming",
-  "imgss":"",
-  "downurl":[""]
+  {
+    "id": 14,
+    "name": "Ant-Man",
+    "imgss": "https://github.com/waglexudip/velmar/blob/main/ant.png?raw=true",
+    "downurl": [
+      ""
+    ]
   },
-
-{
-  "id": 18, 
-  "name":"Black Panther",
-  "imgss":"",
-  "downurl":[""]
+  {
+    "id": 15,
+    "name": "Captain America: Civil War",
+    "imgss": "",
+    "downurl": [
+      ""
+    ]
   },
-
-{
-  "id": 19, 
-  "name":"Doctor Strange",
-  "imgss":"https://github.com/waglexudip/velmar/blob/main/drstr.png?raw=true",
-  "downurl":[""]
+  {
+    "id": 16,
+    "name": "Black Widow",
+    "imgss": "https://github.com/waglexudip/velmar/blob/main/blakc.png?raw=true",
+    "downurl": [
+      ""
+    ]
   },
-
-{
-  "id": 20, 
-  "name":"Thor: Ragnarok",
-  "imgss":"",
-  "downurl":[""]
+  {
+    "id": 17,
+    "name": "Spider-Man: Homecoming",
+    "imgss": "",
+    "downurl": [
+      ""
+    ]
   },
-
-{
-  "id": 21, 
-  "name":"Ant-Man and the Wasp",
-  "imgss":"",
-  "downurl":[""]
+  {
+    "id": 18,
+    "name": "Black Panther",
+    "imgss": "",
+    "downurl": [
+      ""
+    ]
   },
-
-{
-  "id": 22, 
-  "name":"Avengers: Infinity War",
-  "imgss":"",
-  "downurl":[""]
+  {
+    "id": 19,
+    "name": "Doctor Strange",
+    "imgss": "https://github.com/waglexudip/velmar/blob/main/drstr.png?raw=true",
+    "downurl": [
+      ""
+    ]
   },
-
-{
-  "id": 23, 
-  "name":"Avengers: Endgame",
-  "imgss":"",
-  "downurl":[""]
+  {
+    "id": 20,
+    "name": "Thor: Ragnarok",
+    "imgss": "",
+    "downurl": [
+      ""
+    ]
   },
-
-{
-  "id": 24, 
-  "name":"Spider-Man: Far From Home",
-  "imgss":"",
-  "downurl":[""]
+  {
+    "id": 21,
+    "name": "Ant-Man and the Wasp",
+    "imgss": "",
+    "downurl": [
+      ""
+    ]
   },
-
-{
-  "id": 25, 
-  "name":"Spider-Man: No Way Home",
-  "imgss":"",
-  "downurl":[""]
+  {
+    "id": 22,
+    "name": "Avengers: Infinity War",
+    "imgss": "",
+    "downurl": [
+      ""
+    ]
   },
-
-{
-  "id": 26, 
-  "name":"Doctor Strange in the Multiverse of Madness",
-  "imgss":"",
-  "downurl":[""]
+  {
+    "id": 23,
+    "name": "Avengers: Endgame",
+    "imgss": "",
+    "downurl": [
+      ""
+    ]
   },
-
-{
-  "id": 27, 
-  "name":"Thor: Love and Thunder",
-  "imgss":"",
-  "downurl":[""]
+  {
+    "id": 24,
+    "name": "Spider-Man: Far From Home",
+    "imgss": "",
+    "downurl": [
+      ""
+    ]
   },
-
-{
-  "id": 28, 
-  "name":"Ant-Man and the Wasp: Quantumania",
-  "imgss":"",
-  "downurl":[""]
+  {
+    "id": 25,
+    "name": "Spider-Man: No Way Home",
+    "imgss": "",
+    "downurl": [
+      ""
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Doctor Strange in the Multiverse of Madness",
+    "imgss": "",
+    "downurl": [
+      ""
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Thor: Love and Thunder",
+    "imgss": "",
+    "downurl": [
+      ""
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Ant-Man and the Wasp: Quantumania",
+    "imgss": "",
+    "downurl": [
+      ""
+    ]
   }
-  
 ]
