@@ -2,13 +2,19 @@
   {
   "id":1 , 
   "name":"Ironman",
-  "imgss":"https://picsum.photos/536/354",
+  "imgss":"https://github.com/waglexudip/velmar/blob/main/ironman.jpeg?raw=true",
   "downurl":["url1"]
   },
   {
   "id": 2,
   "name":"captain america",
-  "imgss":"https://github.com/waglexudip/velmar/blob/main/ironman.jpeg?raw=true",
+  "imgss":"https://github.com/waglexudip/velmar/blob/main/ironman2.jpeg?raw=true",
+  "downurl":["url2"]
+  },
+    {
+  "id": 3,
+  "name":"captain america 2",
+  "imgss":"https://github.com/waglexudip/velmar/blob/main/ironman3.jpeg?raw=true",
   "downurl":["url2"]
   }
   
