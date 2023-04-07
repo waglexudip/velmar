@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Captain America: The First Avenger",
+    "name": "Captain America",
     "imgss": "https://github.com/waglexudip/velmar/blob/main/steve.png?raw=true",
     "downurl": [
       ""
@@ -73,7 +73,7 @@
   },
   {
     "id": 10,
-    "name": "Captain America The Winter Soldier",
+    "name": "Captain America 2",
     "imgss": "https://github.com/waglexudip/velmar/blob/main/buck.png?raw=true",
     "downurl": [
       ""
@@ -113,7 +113,7 @@
   },
   {
     "id": 15,
-    "name": "Captain America: Civil War",
+    "name": "Captain America Civil War",
     "imgss": "",
     "downurl": [
       ""
@@ -185,7 +185,7 @@
   },
   {
     "id": 24,
-    "name": "Spider-Man: Far From Home",
+    "name": "SpiderMan Far From Home",
     "imgss": "",
     "downurl": [
       ""
@@ -201,7 +201,7 @@
   },
   {
     "id": 26,
-    "name": "Doctor Strange in the Multiverse of Madness",
+    "name": "Doctor Strange 2",
     "imgss": "",
     "downurl": [
       ""
