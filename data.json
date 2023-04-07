@@ -14,14 +14,14 @@
     {
   "id": 3,
   "name":"Iron Man",
-  "imgss":"",
+  "imgss":"https://github.com/waglexudip/velmar/blob/main/ironman1.png?raw=true",
   "downurl":[""]
   },
   
   {
   "id": 4, 
   "name":"Iron Man 2",
-  "imgss":"",
+  "imgss":"https://github.com/waglexudip/velmar/blob/main/ironman2.png?raw=true",
   "downurl":[""]
   },
   
