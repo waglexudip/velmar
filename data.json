@@ -2,13 +2,13 @@
   {
   "id":1 , 
   "name":"Captain America: The First Avenger",
-  "imgss":"",
+  "imgss":"https://github.com/waglexudip/velmar/blob/main/steve.png?raw=true",
   "downurl":[""]
   },
   {
   "id": 2,
   "name":"Captain Marvel",
-  "imgss":"",
+  "imgss":"https://github.com/waglexudip/velmar/blob/main/amr.png?raw=true",
   "downurl":[""]
   },
     {
@@ -43,7 +43,7 @@
 {
   "id": 7, 
   "name":"The Avengers",
-  "imgss":"",
+  "imgss":"https://github.com/waglexudip/velmar/blob/main/acen.png?raw=true",
   "downurl":[""]
   },
 
@@ -57,14 +57,14 @@
 {
   "id": 9, 
   "name":"Iron Man 3",
-  "imgss":"",
+  "imgss":"https://github.com/waglexudip/velmar/blob/main/ironman3.png?raw=true",
   "downurl":[""]
   },
 
 {
   "id": 10, 
   "name":"Captain America: The Winter Soldier",
-  "imgss":"",
+  "imgss":"https://github.com/waglexudip/velmar/blob/main/buck.png?raw=true",
   "downurl":[""]
   },
 
@@ -100,7 +100,7 @@
 {
   "id": 14, 
   "name":"Ant-Man",
-  "imgss":"",
+  "imgss":"https://github.com/waglexudip/velmar/blob/main/ant.png?raw=true",
   "downurl":[""]
   },
 
@@ -114,7 +114,7 @@
 {
   "id": 16, 
   "name":"Black Widow",
-  "imgss":"",
+  "imgss":"https://github.com/waglexudip/velmar/blob/main/blakc.png?raw=true",
   "downurl":[""]
   },
 {
@@ -134,7 +134,7 @@
 {
   "id": 19, 
   "name":"Doctor Strange",
-  "imgss":"",
+  "imgss":"https://github.com/waglexudip/velmar/blob/main/drstr.png?raw=true",
   "downurl":[""]
   },
 
