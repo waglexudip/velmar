@@ -34,7 +34,7 @@
   {
     "id": 5,
     "name": "The Incredible Hulk",
-    "imgss": "",
+    "imgss": "https://github.com/waglexudip/velmar/blob/main/hu.png?raw=true",
     "downurl": [
       ""
     ]
@@ -82,7 +82,7 @@
   {
     "id": 11,
     "name": "Guardians of the Galaxy",
-    "imgss": "",
+    "imgss": "https://github.com/waglexudip/velmar/blob/main/gog.png?raw=true",
     "downurl": [
       ""
     ]
@@ -90,7 +90,7 @@
   {
     "id": 12,
     "name": "Guardians of the Galaxy 2",
-    "imgss": "",
+    "imgss": "https://github.com/waglexudip/velmar/blob/main/gog2.png?raw=true",
     "downurl": [
       ""
     ]
